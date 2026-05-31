@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvync",
+        "uuid": 21632517,
+        "checksum": "cf2wk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
